@@ -2,7 +2,7 @@
 
 ### **By Brian Menendez**
 
-![logo_instagram](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/828c09ba599b63a9fac434018e70ffb58e4f36f537a3d361.png)
+![logo_instagram](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/b7a162652e8e5017d2dbedebeaeb21b3daffd71ee214911d.png)
 
 (IG-PRIVACY) Es un complemento para inyectar privacidad a Instagram, este complemento para inyección contiene:
 
